@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="" />
+    <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RHHPXAnFrAE6Nn4tWMSvmP36d2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/hamcrest-2.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -44,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TermCounterTest.testSize">
-    <configuration name="Koneksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_10.Koneksi" />
-      <module name="Semester_1" />
+  <component name="RunManager" selected="Application.MainProgram">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BelajarInterfaces.Main" />
+      <module name="Pak_Fatchur" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_10.*" />
+          <option name="PATTERN" value="BelajarInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BelajarInterfaces.Main" />
-      <module name="Pak_Fatchur" />
+    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pertemuan3.MainProgram" />
+      <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BelajarInterfaces.*" />
+          <option name="PATTERN" value="Pertemuan3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainProgram" />
         <item itemvalue="JUnit.TermCounterTest.testSize" />
         <item itemvalue="Application.WikiCrawler" />
         <item itemvalue="Application.TermCounter" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Koneksi" />
       </list>
     </recent_temporary>
   </component>
@@ -135,5 +145,16 @@
       <updated>1569317078039</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -22,7 +22,7 @@ public class DataLatihan1 {
 
     public void cetak(int[] data) {
         for (int i = 0; i < data.length; i++) {
-            System.out.print(data[i]);
+            System.out.print(data[i]+" ");
         }
         System.out.println();
     }
@@ -34,7 +34,17 @@ public class DataLatihan1 {
         System.out.println();
     }
 
-    public void cetak(String)
+    public void ganjilGenap(String a, int[] data) {
+        String ganjil = "Ganjil", genap = "Genap";
+
+        for (int i = 0; i < data.length; i++) {
+            if (data[i] % 2 == 1){
+                System.out.println(data[i]+a+ganjil);
+            } else if(data[i] % 2 == 0) {
+                System.out.println(data[i]+a+genap);
+            }
+        }
+    }
 
     public void ubahNilai(int nilaiPenambah, int[] data) {
         for (int i = 0; i < data.length; i++) {

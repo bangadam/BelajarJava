@@ -13,6 +13,8 @@ public class MainProgram {
 
         test.cetak(test.getData());
 
-        test.cetak("terdapat pada index ke ", test.getData());
+        test.cetak(" terdapat pada index ke ", test.getData());
+
+        test.ganjilGenap(" adalah bilangan ", test.getData());
     }
 }

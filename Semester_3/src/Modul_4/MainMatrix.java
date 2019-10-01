@@ -33,5 +33,9 @@ public class MainMatrix {
         double nilaiKali = 0.5;
         matrix.setPerkalian(matrix.getPenjumlahan(), nilaiKali);
         matrix.cetak(matrix.getPerkalian());
+        
+        matrix.hapus();
+        dataMatrik1 = null;
+        dataMatrik2 = null;
     }
 }

@@ -69,4 +69,11 @@ public class Matrix {
     public void setDataMatrik2(int[][] dataMatrik2) {
         this.dataMatrik2 = dataMatrik2;
     }
+    
+    public void hapus(){
+        dataMatrik1 = 0;
+        dataMatrik2 = 0;
+        penjumlahan = 0;
+        perkalian = 0;
+    }
 }

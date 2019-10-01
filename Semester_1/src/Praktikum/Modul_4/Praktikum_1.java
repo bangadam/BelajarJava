@@ -5,6 +5,8 @@
  */
 package Praktikum.Modul_4;
 
+import java.io.Console;
+
 /**
  *
  * @author bangadam
@@ -48,5 +50,6 @@ public class Praktikum_1 {
                 System.out.println(i+"!"+" adalah = "+faktorial);
             
         }
+
     }
 }

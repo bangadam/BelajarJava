@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pak_Fatchur/src/Mean/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pak_Fatchur/src/Mean/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_4/MainMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_4/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Praktikum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Praktikum_1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +21,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RHHPXAnFrAE6Nn4tWMSvmP36d2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -54,26 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainProgram">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BelajarInterfaces.Main" />
-      <module name="Pak_Fatchur" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BelajarInterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pertemuan3.MainProgram" />
+  <component name="RunManager" selected="Application.MainMatrix">
+    <configuration name="MainMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_4.MainMatrix" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pertemuan3.*" />
+          <option name="PATTERN" value="Modul_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TermCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Term.TermCounter" />
+    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mean.Median" />
       <module name="Pak_Fatchur" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Term.*" />
+          <option name="PATTERN" value="Mean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikiCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wiki.WikiCrawler" />
-      <module name="Pak_Fatchur" />
+    <configuration name="Praktikum_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_3.Praktikum_3" />
+      <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wiki.*" />
+          <option name="PATTERN" value="Praktikum.Modul_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,29 +111,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TermCounterTest.testSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Pak_Fatchur" />
+    <configuration name="Praktikum_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_3.Praktikum_4" />
+      <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Term.*" />
+          <option name="PATTERN" value="Praktikum.Modul_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Term" />
-      <option name="MAIN_CLASS_NAME" value="Term.TermCounterTest" />
-      <option name="METHOD_NAME" value="testSize" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_4.Praktikum_5" />
+      <module name="Semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum.Modul_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainProgram" />
-        <item itemvalue="JUnit.TermCounterTest.testSize" />
-        <item itemvalue="Application.WikiCrawler" />
-        <item itemvalue="Application.TermCounter" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainMatrix" />
+        <item itemvalue="Application.Median" />
+        <item itemvalue="Application.Praktikum_5" />
+        <item itemvalue="Application.Praktikum_4" />
+        <item itemvalue="Application.Praktikum_3" />
       </list>
     </recent_temporary>
   </component>
@@ -151,10 +165,48 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="oldData[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

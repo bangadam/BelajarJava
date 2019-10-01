@@ -7,14 +7,14 @@ public class MainProgram {
         DataLatihan1 test = new DataLatihan1();
 
         test.setData(data);
-        test.setNilaiPenambah(5);
+        test.setDataIndex(data);
+        int nilaiPenambah = 5;
 
-        test.ubahNilai(test.getNilaiPenambah(), test.getData());
-
+        test.ubahNilai(nilaiPenambah, test.getData());
         test.cetak(test.getData());
 
-        test.cetak(" terdapat pada index ke ", test.getData());
+        test.cetak(test.getDataIndex());
 
-        test.ganjilGenap(" adalah bilangan ", test.getData());
+        test.ganjilGenap(" adalah bilangan ", test.getOldData());
     }
 }

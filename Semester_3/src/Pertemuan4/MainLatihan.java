@@ -9,27 +9,21 @@ public class MainLatihan {
 
         Latihan test = new Latihan();
         test.setData(data);
-        test.setOldData(data.clone());
 
-        int angkaUntukPenjumlahan = 3;
-
-        // =========NOMOR 1 ==========//
-        // proses penjumlahan
-        test.cetak("Sebelum di jumlah = \n");
+        test.cetak("=================\n");
+        test.cetak("Sebelum di jumlah\n");
         test.cetak(test.getData());
-        test.prosesPenjumlahan(test.getData(), angkaUntukPenjumlahan);
-        test.cetak("Sesudah di jumlah = \n");
-        test.cetak(test.getData());
-        test.cetak("===============================\n");
+        int nilai = 3;
+        test.cetak("Setelah di jumlah\n");
+        test.setPenjumlahan(test.getData(), 3);
+        test.cetak(test.getPenjumlahan());
 
-        // =========NOMOR 2 ========//
-        test.prosesCariIndex(test.getOldData());
-        test.cetak(test.getDataString());
-        test.cetak("===============================\n");
+        test.cetak("=================\n");
+        test.setIndex(test.getData());
+        test.cetak(test.getIndex());
 
-        // =========NOMOR 3 ========//
-        test.prosesGanjilGenap(test.getOldData());
-        test.cetak(test.getDataString());
-        test.cetak("===============================\n");
+        test.cetak("=================\n");
+        test.setGanjilGenap(test.getData());
+        test.cetak(test.getGanjilGenap());
     }
 }

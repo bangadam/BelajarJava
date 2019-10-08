@@ -12,12 +12,13 @@ package Praktikum.Modul_4;
 public class Pendahuluan_2 {
     public static void main(String[] args) {
 //        int a = 1 , b = 1;
-            int jml = 0;
-            for (int i = 1; i <= 5; i++) {
-                jml+=i;
-            }
-            System.out.println("total semua penjumlahan = "+jml);
-        
+//            int jml = 0;
+//            for (int i = 1; i <= 5; i++) {
+//                jml+=i;
+//            }
+//            System.out.println("total semua penjumlahan = "+jml);
+            int data[] = {1,2,3,4};
+        System.out.println(data.length);
                 
 //        System.out.println("=====Perulangan WHILE=====");
 //        while(a <= 10) {

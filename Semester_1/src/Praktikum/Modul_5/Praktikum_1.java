@@ -16,7 +16,7 @@ public class Praktikum_1 {
             System.out.print(data[i]+" ");
         }
         System.out.println();
-        
+
         // Array Dinamis dengan bilangan random
         System.out.println("========Array Dinamis=====");
         double[] contoh = new double[30];
@@ -27,13 +27,13 @@ public class Praktikum_1 {
             ratarata += contoh[i];
         ratarata /= 30;
         System.out.println("Mean 30 bilangan random : "+ratarata);
-        
+
         // Array Dinamis elemen dimasukkan
         int coba[] = new int[10];
         for (int a = 0; a < coba.length; a++) {
             coba[a] = Integer.parseInt(
                     JOptionPane.showInputDialog("Masukkan Element Index ke "+a));
-                    System.out.println("Index Ke "+a+" adalah "+coba[a]);      
+                    System.out.println("Index Ke "+a+" adalah "+coba[a]);
         }
     }
     

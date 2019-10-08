@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pak_Fatchur/src/Mean/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pak_Fatchur/src/Mean/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_4/MainMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_4/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/MainRentalVcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/RentalVCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/VCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritanceBidangDatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritanceBujurSangkar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritancePersegiPanjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/MainInheritanceBujurSangkar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/MainInheritancePersegiPanjang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Praktikum_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/DataLatihan1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan3/MainProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Praktikum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Praktikum_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Pendahuluan_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Pendahuluan_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_5/Praktikum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_5/Praktikum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_2/src/Praktikum_1/DataArrayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/src/Praktikum_1/DataArrayApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Pendahuluan_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Pendahuluan_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/Latihan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/Latihan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/MainLatihan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/MainLatihan.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +77,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainMatrix">
-    <configuration name="MainMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul_4.MainMatrix" />
+  <component name="RunManager" selected="Application.MainRentalVcd">
+    <configuration name="MainRentalVcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_5.MainRentalVcd" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul_4.*" />
+          <option name="PATTERN" value="Modul_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mean.Median" />
-      <module name="Pak_Fatchur" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mean.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Praktikum_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_3.Praktikum_3" />
+    <configuration name="Pendahuluan_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_4.Pendahuluan_2" />
       <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_3.*" />
+          <option name="PATTERN" value="Praktikum.Modul_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_3.Praktikum_4" />
+    <configuration name="Praktikum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_5.Praktikum_1" />
       <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_3.*" />
+          <option name="PATTERN" value="Praktikum.Modul_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Praktikum_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_5.Praktikum_2" />
+      <module name="Semester_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Praktikum.Modul_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainMatrix" />
-        <item itemvalue="Application.Median" />
+        <item itemvalue="Application.MainRentalVcd" />
+        <item itemvalue="Application.Praktikum_2" />
+        <item itemvalue="Application.Praktikum_1" />
         <item itemvalue="Application.Praktikum_5" />
-        <item itemvalue="Application.Praktikum_4" />
-        <item itemvalue="Application.Praktikum_3" />
+        <item itemvalue="Application.Pendahuluan_2" />
       </list>
     </recent_temporary>
   </component>
@@ -174,35 +180,6 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="oldData[i]" language="JAVA" />

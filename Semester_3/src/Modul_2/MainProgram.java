@@ -1,6 +1,6 @@
 package Modul_2;
 
-public class MainProgram {
+public class MainProgram extends Barang {
     public static void main(String[] args) {
         Barang barang = new Barang();
 

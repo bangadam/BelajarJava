@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 public class RentalVCD extends VCD {
     private VCD[] vcd;
     private int nElemen;
-    private int jumlahVcd;
 
     public VCD[] getVcd() {
         return vcd;
@@ -31,10 +30,6 @@ public class RentalVCD extends VCD {
         for (int i = 0; i < nElemen; i++) {
             vcd[i].displayVcd();
         }
-    }
-
-    public int getJumlahVcd() {
-        return vcd.length;
     }
 
     public void prosesVcd() {

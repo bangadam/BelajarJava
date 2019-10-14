@@ -5,6 +5,14 @@ public class Barang {
     private int stok;
     private double harga_satuan, total, harga_per_barang;
 
+    public Barang() {
+
+    }
+
+    public Barang(String a) {
+
+    }
+
     public String getNama() {
         return nama;
     }
@@ -40,4 +48,13 @@ public class Barang {
     public double getHarga_per_barang() {
         return harga_per_barang = this.harga_per_barang = this.stok * this.harga_satuan;
     }
+
+    public void cetak() {
+        System.out.println("asa");
+    }
+
+    public void cetak(String a) {
+        System.out.println(a);
+    }
+
 }

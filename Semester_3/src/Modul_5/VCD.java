@@ -45,7 +45,20 @@ public class VCD {
     }
 
     protected void setKategori(String kategori) {
-        this.kategori = kategori;
+        switch (kategori) {
+            case "SU" :
+                this.kategori = "Semua Umur";
+                break;
+            case "D" :
+                this.kategori = "Dewasa";
+                break;
+            case "R":
+                this.kategori = "Remaja";
+                break;
+            case "A":
+                this.kategori = "Anak-Anak";
+                break;
+        }
     }
 
     protected String getStok() {

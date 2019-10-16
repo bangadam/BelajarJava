@@ -1,4 +1,4 @@
-package Pertemuan_6;
+package Pertemuan6;
 
 public class ConstPersegiPanjangChild extends ConsPersegeiParent {
     private int lebar, luas;

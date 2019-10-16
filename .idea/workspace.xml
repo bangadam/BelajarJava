@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/MainRentalVcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/RentalVCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_5/VCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritanceBidangDatar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritanceBujurSangkar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/InheritancePersegiPanjang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/MainInheritanceBujurSangkar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan5/MainInheritancePersegiPanjang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/arrayinherits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/arrayinheritsayah.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/inna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/innamain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/BujurSangkar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/MainAplikasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Session.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Pendahuluan_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_4/Pendahuluan_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_5/Praktikum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_5/Praktikum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_2/src/Praktikum_1/DataArrayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/src/Praktikum_1/DataArrayApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/Latihan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/MainLatihan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Pendahuluan_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_1/Praktikum/Modul_4/Pendahuluan_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/Latihan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/Latihan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/MainLatihan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Pertemuan4/MainLatihan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan_6/ConsPersegeiParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan6/ConsPersegeiParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan_6/ConstPersegiPanjangChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan6/ConstPersegiPanjangChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/Barang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/Barang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/MainProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/MainProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_4/MainMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_4/MainMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/RentalVCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/RentalVCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/VCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/VCD.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/hamcrest-2.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -56,6 +56,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Pertemuan7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Pak_Fatchur/src" />
@@ -77,13 +80,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainRentalVcd">
-    <configuration name="MainRentalVcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul_5.MainRentalVcd" />
+  <component name="RunManager" selected="Application.MainAplikasi">
+    <configuration name="MainAplikasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pertemuan7.MainAplikasi" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul_5.*" />
+          <option name="PATTERN" value="Pertemuan7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pendahuluan_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_4.Pendahuluan_2" />
-      <module name="Semester_1" />
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_6.MainApp" />
+      <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_4.*" />
+          <option name="PATTERN" value="Modul_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_5.Praktikum_1" />
-      <module name="Semester_1" />
+    <configuration name="MainLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pertemuan4.MainLatihan" />
+      <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_5.*" />
+          <option name="PATTERN" value="Pertemuan4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_5.Praktikum_2" />
-      <module name="Semester_1" />
+    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LatihanUTS.MainProgram" />
+      <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_5.*" />
+          <option name="PATTERN" value="LatihanUTS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktikum_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_4.Praktikum_5" />
-      <module name="Semester_1" />
+    <configuration name="innamain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pertemuan4.innamain" />
+      <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Praktikum.Modul_4.*" />
+          <option name="PATTERN" value="Pertemuan4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainRentalVcd" />
-        <item itemvalue="Application.Praktikum_2" />
-        <item itemvalue="Application.Praktikum_1" />
-        <item itemvalue="Application.Praktikum_5" />
-        <item itemvalue="Application.Pendahuluan_2" />
+        <item itemvalue="Application.MainAplikasi" />
+        <item itemvalue="Application.innamain" />
+        <item itemvalue="Application.MainLatihan" />
+        <item itemvalue="Application.MainProgram" />
+        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +167,21 @@
       <option name="presentableId" value="Default" />
       <updated>1569317078039</updated>
     </task>
+    <task id="LOCAL-00001" summary="update praktikum 5">
+      <created>1570543314864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570543314864</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update UTS">
+      <created>1570978250318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570978250318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +196,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update praktikum 5" />
+    <MESSAGE value="update UTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="update UTS" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

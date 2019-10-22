@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/arrayinherits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/arrayinheritsayah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/inna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan4/innamain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/BujurSangkar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/MainAplikasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan7/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_1/src/LatihanUTSAPLRO/No1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_1/src/LatihanUTSAPLRO/No2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/mainmotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/mainprak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/modul6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/prak6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/SoalUTS/MainMatrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/SoalUTS/Matrik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan_6/ConsPersegeiParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan6/ConsPersegeiParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Pertemuan_6/ConstPersegiPanjangChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Pertemuan6/ConstPersegiPanjangChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/Barang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/Barang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/MainProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_2/MainProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_4/MainMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_4/MainMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/RentalVCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/RentalVCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/VCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_5/VCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_6/Praktikum_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_6/Praktikum_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/Mahasiswa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/Universitas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/Universitas.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,20 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainAplikasi">
-    <configuration name="MainAplikasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pertemuan7.MainAplikasi" />
-      <module name="Semester_3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pertemuan7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainMatrik">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul_6.MainApp" />
       <module name="Semester_3" />
@@ -107,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLatihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pertemuan4.MainLatihan" />
+    <configuration name="MainMatrik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoalUTS.MainMatrik" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pertemuan4.*" />
+          <option name="PATTERN" value="SoalUTS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LatihanUTS.MainProgram" />
-      <module name="Semester_3" />
+    <configuration name="No2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LatihanUTSAPLRO.No2" />
+      <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LatihanUTS.*" />
+          <option name="PATTERN" value="LatihanUTSAPLRO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="innamain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pertemuan4.innamain" />
+    <configuration name="mainmotor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_6.mainmotor" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pertemuan4.*" />
+          <option name="PATTERN" value="Modul_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainprak6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_6.mainprak6" />
+      <module name="Semester_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainAplikasi" />
-        <item itemvalue="Application.innamain" />
-        <item itemvalue="Application.MainLatihan" />
-        <item itemvalue="Application.MainProgram" />
+        <item itemvalue="Application.MainMatrik" />
+        <item itemvalue="Application.mainprak6" />
+        <item itemvalue="Application.mainmotor" />
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.No2" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570978250318</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pertemuan 7">
+      <created>1571208669662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571208669662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update praktikum 5" />
     <MESSAGE value="update UTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="update UTS" />
+    <MESSAGE value="pertemuan 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="pertemuan 7" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

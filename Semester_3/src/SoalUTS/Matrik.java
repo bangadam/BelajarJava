@@ -33,17 +33,16 @@ public class Matrik {
             for (int j = 0; j < matrik.length; j++) {
                 for (int k = 0; k < matrik[j].length; k++) {
                     if (cari[i] == matrik[j][k]) {
+                        temp = cari[i];
                         if (cari[i] == temp) {
-                            result = "Angka "+cari[i]+" terdapat pada baris "+j+" kolom "+k;
-                        }
-                        if(hasil[i] != null) {
                             result += ", baris "+j+" kolom "+k;
+                        } else {
+                            result = "Angka "+cari[i]+" terdapat pada baris "+j+" kolom "+k;
                         }
                     } else if(hasil[i] == null) {
                         result = "Angka "+cari[i]+" tidak ditemukan";
                     }
                 }
-                temp = cari[i];
                 hasil[i] = result;
             }
         }

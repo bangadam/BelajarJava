@@ -73,16 +73,18 @@ public class data extends prak6 {
         setJurusan(jurusan);
         String tanya = JOptionPane.showInputDialog("apakah ingin menambah data? y/n");
         if (tanya.equals("y")){
+            display();
             proses();
         }else{
             display();
         }
     }
     protected void display(){
-        System.out.println("nama Univ = "+ getUniv());
-        System.out.println("nim = " +getNim());
-        System.out.println("nama = " +getNama());
-        System.out.println("alamat = " +getAlamat());
-        System.out.println("jurusan = " +getJurusan());
+        tamppil("nama Univ = "+ getUniv());
+        tamppil("nim = " +getNim());
+        tamppil("nama = " +getNama());
+        tamppil("alamat = " +getAlamat());
+        tamppil("jurusan = " +getJurusan());
     }
+
 }

@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1a05c0-f73e-48a3-b5e0-f2173e671b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester_1/src/LatihanUTSAPLRO/No1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_1/src/LatihanUTSAPLRO/No2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/mainmotor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/mainprak6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/modul6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/prak6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/SoalUTS/MainMatrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_3/src/SoalUTS/Matrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/ProjectUAS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/ProjectUAS/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/ProjectUAS/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/ProjectUAS/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/UTSTeori/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/UTSTeori/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/UTSTeori/Penilaian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/UTSTeori/datainna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/src/UTSTeori/penilaianinna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_6/Praktikum_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_1/src/Praktikum/Modul_6/Praktikum_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/Mahasiswa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/Universitas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/Universitas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/Modul_6/data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/Modul_6/data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_3/src/SoalUTS/Matrik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_3/src/SoalUTS/Matrik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/Modul_6/data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/Modul_6/data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Semester_3/SoalUTS/Matrik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Semester_3/SoalUTS/Matrik.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,15 +45,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/hamcrest-2.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_MVVM_with_Swing_and_RxJava_Examples" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Pertemuan7" />
     </key>
@@ -65,6 +60,9 @@
       <recent name="$PROJECT_DIR$/Semester_3/src" />
       <recent name="$PROJECT_DIR$/Semester_2/src" />
       <recent name="$PROJECT_DIR$/Semester_1/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,13 +77,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainMatrik">
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul_6.MainApp" />
+  <component name="RunManager" selected="Application.Praktikum_2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectUAS.Main" />
       <module name="Semester_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul_6.*" />
+          <option name="PATTERN" value="ProjectUAS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UTSTeori.MainApp" />
+      <module name="Semester_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UTSTeori.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,25 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LatihanUTSAPLRO.No2" />
+    <configuration name="Praktikum_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Praktikum.Modul_5.Praktikum_2" />
       <module name="Semester_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LatihanUTSAPLRO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mainmotor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul_6.mainmotor" />
-      <module name="Semester_3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Modul_6.*" />
+          <option name="PATTERN" value="Praktikum.Modul_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainMatrik" />
+        <item itemvalue="Application.Praktikum_2" />
+        <item itemvalue="Application.MainApp (1)" />
         <item itemvalue="Application.mainprak6" />
-        <item itemvalue="Application.mainmotor" />
-        <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.No2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainMatrik" />
       </list>
     </recent_temporary>
   </component>
